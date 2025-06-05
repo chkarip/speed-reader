@@ -139,3 +139,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **Note**: This is a basic implementation of an RSVP speed reading app. The effectiveness of speed reading techniques varies among individuals, and this app is intended for educational and practice purposes.
+# Git issue fixed
