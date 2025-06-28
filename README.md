@@ -1,23 +1,28 @@
 # Speed Reader Flutter App
 
-A modern Flutter application for fast-paced reading using RSVP (Rapid Serial Visual Presentation) technique. This app displays text one word at a time at adjustable speeds to help improve reading speed and focus.
+A modern speed reading application built with Flutter, featuring dual display modes for enhanced reading practice.
 
 ## Features
 
-- **RSVP Reading**: Words are displayed one at a time in rapid succession
-- **Adjustable Speed**: Choose from 200 to 1000 words per minute (WPM)
-- **Reading Controls**: Play, pause, and reset functionality
-- **Progress Tracking**: Visual progress bar and word counter
-- **High Contrast Display**: Black background with white text for optimal readability
-- **Clean Interface**: Minimalist design to reduce distractions
+### Dual Reading Modes
+- **RSVP Mode**: Rapid Serial Visual Presentation - displays words/word groups one at a time in the center of the screen
+- **Scrolling Ticker Mode**: Horizontal scrolling text display similar to news tickers or LED displays
 
-## Screenshots
+### Customizable Settings
+- **Reading Speed**: 100-1000 WPM (Words Per Minute)
+- **Word Grouping**: Display 1-4 words at a time (RSVP mode only)
+- **Speed Multipliers**: 1x, 1.5x, 2x, 3x for fine-tuned control
+- **Progress Tracking**: Visual progress indicators for both modes
 
-The app features a clean, distraction-free interface with:
-- Large, bold text display area
-- Speed selection dropdown
-- Play/Pause/Reset controls
-- Progress indicator
+### User Interface
+- Clean, Material Design 3 interface
+- High contrast black background for optimal reading
+- Intuitive play/pause/reset controls
+- Real-time mode switching
+
+## Sample Content
+
+The app includes an engaging mystery story about Maya and a mysterious lighthouse, perfect for testing different reading speeds and modes.
 
 ## Getting Started
 
